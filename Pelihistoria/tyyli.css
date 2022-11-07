@@ -1,0 +1,253 @@
+
+
+
+
+
+
+
+
+li:hover {
+
+    transition: 500ms;
+    font-size: 30px;
+
+
+}
+
+.footer {
+    
+    position: fixed; bottom: 0; left: 0; right: 0; height: 8%; width: 100%;
+    font-size: 20px;
+    border: solid black;
+    background-color: white;
+    
+}
+
+
+
+#lista11:hover {
+
+    background-color: red;
+    transition: all;
+    font-size: 20px;
+
+}
+
+
+#lista12:hover {
+
+    background-color: red;
+    transition: all;
+    font-size: 20px;
+
+}
+
+
+#lista13:hover {
+
+    background-color: red;
+    transition: all;
+    font-size: 20px;
+
+}
+
+
+
+
+
+
+#lista21:hover {
+
+    background-color: orange;
+    transition: all;
+    font-size: 20px;
+
+}
+
+#lista22:hover {
+
+    background-color: orange;
+    transition: all;
+    font-size: 20px;
+
+}
+
+
+#lista31:hover {
+
+    background-color: green;
+    transition: all;
+    font-size: 20px;
+
+}
+
+
+#lista32:hover {
+
+    background-color: green;
+    transition: all;
+    font-size: 20px;
+
+}
+
+
+#lista33:hover {
+
+    background-color: green;
+    transition: all;
+    font-size: 20px;
+
+}
+
+
+#Yksi1 {
+
+    border: solid black;
+    background-color: red;
+    margin: 35px;
+    padding: 35px;
+    width: auto;
+    
+
+}
+    
+#Yksi2 {
+
+    border: solid black;
+    background-color: red;
+    margin: 35px;
+    padding: 35px;
+    width: auto;
+    
+
+}
+
+
+
+#Yksi3 {
+
+    border: solid black;
+    background-color: red;
+    margin: 35px;
+    padding: 35px;
+    width: auto;
+    
+
+}
+    
+
+
+#Kaksi1 {
+ 
+    border: solid black;
+    background-color: orange;
+    margin: 35px;  
+    padding: 35px;
+    width: auto;
+    
+
+}
+
+
+
+#Kaksi2 {
+ 
+    border: solid black;
+    background-color: orange;
+    margin: 35px;
+    padding: 35px;
+    width: auto;
+    
+
+}
+
+#Kolme1 {
+ 
+    border: solid black;
+    background-color: green;
+    margin: 35px;
+    padding: 35px;
+    width: auto;
+    
+
+}
+
+
+#Kolme2 {
+ 
+    border: solid black;
+    background-color: green;
+    margin: 35px;
+    padding: 35px;
+    width: auto;
+    
+
+}
+
+
+#Kolme3 {
+ 
+    border: solid black;
+    background-color: green;
+    margin: 35px;
+    padding: 35px;
+    width: auto;
+    
+
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: auto;
+
+}
+
+.navbar-expand-lg {
+
+    font-size: 25px;
+    color: white;
+    border: solid;
+    width: 30%;
+    height: 100%;
+    background-image: url("Dungeonkeeper.jpg");
+    background-position: left;
+    margin-left: 70%;
+
+    
+}
+    
+
+
+
+
+
+p {
+
+    color: black;
+    
+}
+
+
+
+img {
+
+    max-width: 100%;
+    height: auto;
+
+}
+
+
+    
+
+
+@media only screen and (max-width: 800px) {
+    body {
+      background-color: black;
+      color:  white;
+
+
+    }
